@@ -1,0 +1,24 @@
+.info {
+    &__title {
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 40px;
+        letter-spacing: 0%;
+        margin-bottom: 10px;
+    }
+    &__text {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0%;
+        color: #808080;
+    }
+}
+.close {
+    margin-top: -20px;
+    float: right;
+    width: 40px;
+    font-size: 40px;
+    color: #EA0029;
+    cursor: pointer;
+}
