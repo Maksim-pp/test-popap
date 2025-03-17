@@ -5,8 +5,15 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background:  linear-gradient(255.35deg, #DC3131 20.83%, rgba(255, 79, 79, 0) 400%);
+  height: 100%;
 }
 
+html {
+  height: 100%;
+}
+#root {
+  height: 100%;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
