@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-popap/static/css/main.7773596b.css",
+    "main.js": "/test-popap/static/js/main.fb1806dd.js",
+    "static/js/453.9ec8dc38.chunk.js": "/test-popap/static/js/453.9ec8dc38.chunk.js",
+    "index.html": "/test-popap/index.html",
+    "main.7773596b.css.map": "/test-popap/static/css/main.7773596b.css.map",
+    "main.fb1806dd.js.map": "/test-popap/static/js/main.fb1806dd.js.map",
+    "453.9ec8dc38.chunk.js.map": "/test-popap/static/js/453.9ec8dc38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7773596b.css",
+    "static/js/main.fb1806dd.js"
+  ]
+}
