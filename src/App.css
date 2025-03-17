@@ -11,12 +11,7 @@
   align-items: center;
 }
 
-.appContainer{ 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
+
 .button {
   margin: auto;
   color: #FFFFFF;
